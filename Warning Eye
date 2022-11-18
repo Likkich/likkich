@@ -1,0 +1,20 @@
+/**
+ * @name Warning Eye
+ * @author Likkich#5582
+ * @version 0.0.1
+ * @description This theme was made on their template https://betterdiscord.app/theme/Dark%20Matter
+*/
+
+@import url('https://DiscordStyles.github.io/DarkMatter/src/base.css');
+
+/* Variables */
+:root {
+    --avatar-size: 32px;
+    --background-image: url('https://c4.wallpaperflare.com/wallpaper/658/800/994/simple-simple-background-minimalism-black-background-wallpaper-preview.jpg');
+    --home-image: url('https://e7.pngegg.com/pngimages/150/311/png-clipart-female-anime-character-illustration-sinon-asuna-kirito-chibi-anime-chibi-white-face.png');
+    --background-solid: #161921;
+    --background-solid-dark: #101218;
+    --background-solid-darker: #0c0e12;
+    --accent: 37, 172, 232;
+    --accent-alt: 29, 101, 134;
+}
